@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm full stack java developer And also an EXTC engineer.<br>I'm good in java, javascript, and frontend frameworks.<br>I'm work on java projects mainly and want to become a java developer.<br>I'm unique because of my project ideas.
+I'm full stack developer And an EXTC engineer.<br>I'm good in java, javascript, and frontend frameworks.<br>I'm work on SOLO projects mainly and want to become a corporate employee.<br>I'm unique because of my project ideas and thoughts.
 
 
 ## 🌐 Socials:
